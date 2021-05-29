@@ -6,7 +6,3 @@
 - Elkin Narváez
 - Nicolás Delgado
 - Camila Paladines
-
-## How to compile
-
-## How to execute
