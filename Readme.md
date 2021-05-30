@@ -3,6 +3,5 @@
 ## Made by
 
 - Juan Betancourt
-- Elkin Narváez
 - Nicolás Delgado
 - Camila Paladines
